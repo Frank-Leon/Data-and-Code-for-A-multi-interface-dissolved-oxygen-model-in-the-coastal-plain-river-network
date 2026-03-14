@@ -23,3 +23,9 @@ plot_heat_map.R: Script to plot the spatiotemporal heat maps of the calculated f
 DO depletion.R: Script to visualize the DO depletion processes over time.
 
 combined_flux_plots.R: Script to create combined or comparative plots for the interfacial fluxes.
+
+## License
+* **Code:** The Python and R scripts in this repository are licensed under the [MIT License](LICENSE).
+* **Data:** The datasets (including topographic measurements and calculated fluxes) are made available under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+
+
