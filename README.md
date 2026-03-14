@@ -1,5 +1,5 @@
 # Data-and-Code-for-A-multi-interface-dissolved-oxygen-model-in-the-coastal-plain-river-network
-Frank Leon. (2026). Frank-Leon/Data-and-Code-for-A-multi-interface-dissolved-oxygen-model-in-the-coastal-plain-river-network: Release 1.1 (v1.1.1). Zenodo. https://doi.org/10.5281/zenodo.19020111
+ https://doi.org/10.5281/zenodo.19020111
 This repository contains the datasets and Python scripts supporting the findings of the paper: "A multi-interface dissolved oxygen model development for the rivers controlled by gates in the coastal plain river network: An empirical analysis in Jinhuigang River, Shanghai".
 # Description of Files
 1. Data
